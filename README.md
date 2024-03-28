@@ -44,6 +44,13 @@ npm run install-dependecies
 ```
 
 
+## How to run ?
+```python
+# will serve the project
+npm start
+```
+
+
 # Stock_Prediction
 
 ## Introduction
@@ -131,16 +138,3 @@ Yash Kanjiya
 ![image](https://user-images.githubusercontent.com/70482112/162556703-d0bbaebc-8e5d-4669-9e81-16ddedd284c6.png)
 
 
-
-
-
-
-
-
-
-
-## How to run ?
-```python
-# will serve the project
-npm start
-```
