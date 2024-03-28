@@ -53,6 +53,14 @@ npm start
 
 # Stock_Prediction
 
+### Table of Contents
+- [Introduction](#Introduction)
+- [Technology](#Technology)
+- [Description](#Description)
+- [Advantage](#Advantage)
+- [Disadvantege](#Disadvantege)
+- [Installation](#Installation)
+  
 ## Introduction
 
 -> We have stock market live pridiction in chart and also shows moving average.
