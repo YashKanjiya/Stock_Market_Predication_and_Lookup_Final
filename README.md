@@ -60,17 +60,13 @@ npm start
 -> This Project also shows to Predicted Stock Portfolio.
 
 ## Technology
--> Python
-
--> Keras Library
-
--> Numpy and Pandas Library
-
--> Matplotlib
-
--> Streamlit App Freamwork
-
--> Sqlite3 Database
+- **Python**: The primary programming language used in this project.
+- **Keras Library**: Utilized for building and training neural network models.
+- **Numpy and Pandas Library**: Used for data manipulation and analysis.
+- **Matplotlib**: Employed for data visualization.
+- **Streamlit App Framework**: Utilized for building interactive web applications.
+- **Sqlite3 Database**: Used for storing and querying data locally.
+- **Git and GitHub**: Version control system and platform for collaborative development.
 
 ## Description
 -> we have used streamlit App framework for stock prediction and manage portfolio.
