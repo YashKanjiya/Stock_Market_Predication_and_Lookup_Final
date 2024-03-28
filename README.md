@@ -31,7 +31,7 @@
 - Install [Node.js](https://nodejs.org/en/), [React](https://reactjs.org/), [MongoDB](https://www.mongodb.com/)
 ```python
 # will download this repository locally
-https://github.com/Meet35/Stock-Market-System.git
+https://github.com/YashKanjiya/Stock_Market_Predication_and_Lookup_Final
 (or manually download this project)
 
 # will install all the dependencies for project
